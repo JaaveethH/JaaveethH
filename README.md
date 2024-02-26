@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Jaaveeth H] 👋
 
 Welcome to my GitHub profile! I am passionate about [Mobile apps, Kotlin, KMP], and I love contributing to open source projects. Here are some of my key achievements:
 
